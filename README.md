@@ -49,3 +49,24 @@
  
  **Test data** : User: Max & Pass:123456
  
+ -----------------
+ 
+  **Title**  : Images on "My mama mia pizza" have alignment issues
+ 
+ **Priority & severity**  P3 - Medium
+
+
+  **Description** : "My mama mia pizza" page has alignment issues
+
+ **Steps to reproduce** :
+ 
+ 1. Direct to Mastercook/Mymamamiapizza
+ 2. Observe the image borders
+
+ **Expected result** : All images align perfectly
+ 
+ **Actual result** : Images on "My mama mia pizza" have alignment issues
+ 
+
+ 
+ 

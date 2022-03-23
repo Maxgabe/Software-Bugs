@@ -67,6 +67,24 @@
  
  **Actual result** : Images on "My mama mia pizza" have alignment issues
  
+-----------------
 
+ **Title**  :  "404: Page Not Found" error appears when user click on "More Products" button
+ 
+ **Priority & severity**  - P1 - Critical 
+
+  **Description** : "404: Page Not Found" appears when user clicks on "More Products" button
+
+ **Steps to reproduce** :
+ 
+ 1. Direct to the http://www.Centuryclothes.com/1800centurycostumes
+ 2. Scroll down
+ 3. Find "1800 century costumes" square
+ 4. Click "More Products" button 
+ 
+
+ **Expected result** : User should see the anticipated products
+ 
+ **Actual result** : "404: Page Not Found" error appears when user clicks on "More Products" button
  
  

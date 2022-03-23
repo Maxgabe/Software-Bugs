@@ -87,4 +87,22 @@
  
  **Actual result** : "404: Page Not Found" error appears when user clicks on "More Products" button
  
+ -----------------
+
+ **Title**  :  Icon of wine bottle appears when the user scrolls down in search of "Vegetables" section square
+ 
+ **Priority & severity**  - P3 - Medium
+
+  **Description** : Wine bottle Icon doesn't match Food section square
+
+ **Steps to reproduce** :
+ 
+ 1. Direct to http://www.GroceryBasket.com/Categories
+ 2. Scroll at the middle of the page
+ 3. Find "Vegetables" square
+ 4. Observe the icon above "Vegetables" section square
+ 
+ **Expected result** : The user should see an icon of a broccoli above the "Vegetables" section square
+ 
+ **Actual result** : Icon of wine bottle appears when the user scrolls down in search of "Vegetables" section square
  
